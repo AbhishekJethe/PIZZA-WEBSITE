@@ -1,0 +1,73 @@
+
+        .body{
+            background-color:rgb(113, 244, 248);
+            background-size:cover;
+            
+        }
+        .navbar{
+            position:sticky;
+            padding:30px;
+            transition: 1s;
+            
+        }
+        .navbar:hover{
+            padding:15px;
+        }
+        .cheese{
+            padding: 20px;
+            transition:1s;
+
+        }
+        .hawa{
+            padding:20px;
+            transition:1s; 
+        }
+        .pepo{
+            padding: 20px;
+            transition:1s;
+
+        }
+        .bread{
+            padding: 20px;
+            transition:1s;
+
+        }
+        .fries{
+            padding: 20px;
+            transition:1s;
+
+        }
+         .cheese:hover{
+            padding: 10px;
+            transition:1s;
+
+        }
+        .hawa:hover{
+            padding:10px;
+            transition:1s;
+        }
+        .pepo:hover{
+            padding: 10px;
+            transition:1s;
+
+        }
+        .bread:hover{
+            padding: 10px;
+            transition:1s;
+
+        }
+        .fries:hover{
+            padding: 10px;
+            transition:1s;
+
+        }
+        .footer{
+             text-align: center;
+             background-color: rgb(137, 209, 239);
+        }
+
+
+
+        
+
+    
